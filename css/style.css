@@ -1,0 +1,16 @@
+.container {
+  background-color: aliceblue;
+  border-radius: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+  max-width: 300px;
+  padding: 20px;
+}
+
+input {
+  box-sizing: border-box;
+  display: block;
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 100%;
+}
